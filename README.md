@@ -1,4 +1,6 @@
 Investment Behavior & Savings Objective Analysis
+
+
 📌 Project Overview
 
 This project analyzes investor behavior and savings objectives using an interactive Power BI dashboard. The goal is to identify patterns in investment preferences, duration, demographics, and financial goals to support data-driven decision-making.
